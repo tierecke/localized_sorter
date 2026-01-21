@@ -1,6 +1,6 @@
-# 🌍 tierecke_localized_sorter
+# 🌍 localized_sorter
 
-[![pub package](https://img.shields.io/badge/pub-v0.1.0-blue.svg)](https://pub.dev/packages/tierecke_localized_sorter)
+[![pub package](https://img.shields.io/badge/pub-v0.1.0-blue.svg)](https://pub.dev/packages/localized_sorter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **High-performance, zero-allocation, linguistic string comparison for Flutter and Dart.**
@@ -19,7 +19,7 @@ In a global application, standard string sorting (`list.sort()`) relies on **Uni
 
 ## 💡 The Solution
 
-`tierecke_localized_sorter` solves this by implementing specific **Linguistic Rules** for 17+ languages.
+`localized_sorter` solves this by implementing specific **Linguistic Rules** for 17+ languages.
 
 It is optimized for mobile performance using a **Zero-Allocation** strategy. Instead of creating new string objects (which triggers Garbage Collection and frame drops), the algorithm uses pointers to compare character codes directly in memory.
 
@@ -31,4 +31,4 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  tierecke_localized_sorter: ^0.1.0
+  localized_sorter: ^0.1.0
