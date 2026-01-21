@@ -27,8 +27,8 @@ It is optimized for mobile performance using a **Zero-Allocation** strategy. Ins
 
 ## 🛠️ Installation
 
-Add the following to your `pubspec.yaml`:
+Add the latest version of `localized_sorter` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  localized_sorter: ^0.1.0
+  localized_sorter: ^latest
