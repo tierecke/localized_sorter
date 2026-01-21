@@ -2,10 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 2026-01-21
+## [0.1.1] - 2026-01-21
 
 ### Added
-- Initial beta release of `tierecke_localized_sorter`.
+- Initial beta release of `localized_sorter`.
 - High-performance linguistic sorting for 17+ languages.
 - **Zero-allocation** comparison algorithm using `codeUnitAt`.
 - Support for **Spanish (Ñ)**, **Estonian (Z/Ž)**, and **Nordic (Å, Ä, Ö)** specific alphabet rules.
