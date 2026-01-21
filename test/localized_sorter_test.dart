@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:tierecke_localized_sorter/localized_sorter.dart';
+import 'package:localized_sorter/localized_sorter.dart';
 
 void main() {
   group('LocalizedSorter - Support & Logic Validation', () {

@@ -1,4 +1,4 @@
-name: tierecke_localized_sorter
+name: localized_sorter
 description: High-performance, zero-allocation, locale-aware string comparison for Flutter and Dart. Handles unique linguistic rules for 17+ languages.
 version: 0.1.0
 homepage: https://github.com/tierecke/localized_sorter
